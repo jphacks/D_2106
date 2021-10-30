@@ -1,6 +1,6 @@
 # MAPPIN
 
-![logo](./images/logo.png)
+<img src="./images/MAPPIN-header.png" />
 
 ## 製品概要
 
